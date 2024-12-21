@@ -1,4 +1,4 @@
 # firstPHP
 
 
-My first hello world project n PHP
+My first hello world project in PHP
